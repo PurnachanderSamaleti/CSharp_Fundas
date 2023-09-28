@@ -1,0 +1,5 @@
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\SecondProject\obj\Debug\net6.0\SecondProject.csproj.AssemblyReference.cache
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\SecondProject\obj\Debug\net6.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\SecondProject\obj\Debug\net6.0\SecondProject.AssemblyInfoInputs.cache
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\SecondProject\obj\Debug\net6.0\SecondProject.AssemblyInfo.cs
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\SecondProject\obj\Debug\net6.0\SecondProject.csproj.CoreCompileInputs.cache

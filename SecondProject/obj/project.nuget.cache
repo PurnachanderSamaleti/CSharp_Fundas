@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r8Ef8lqwqv0dUFC5UCtcCKqk1TaFbJ29dlOwrelmjEP5eUSE2Q+lj0G7nBNrQoUvuNR/nrYD2K9UX8lSo7fNkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SamaletiPurnachander\\source\\repos\\C_Sharp_Fundas\\SecondProject\\SecondProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SamaletiPurnachander\\.nuget\\packages\\selenium.webdriver.chromedriver\\103.0.5060.13400\\selenium.webdriver.chromedriver.103.0.5060.13400.nupkg.sha512"
+  ],
+  "logs": []
+}

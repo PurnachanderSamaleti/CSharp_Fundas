@@ -1,0 +1,15 @@
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\3rd_Project\bin\Debug\net6.0\3rd_Project.exe
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\3rd_Project\bin\Debug\net6.0\3rd_Project.deps.json
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\3rd_Project\bin\Debug\net6.0\3rd_Project.runtimeconfig.json
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\3rd_Project\bin\Debug\net6.0\3rd_Project.dll
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\3rd_Project\bin\Debug\net6.0\3rd_Project.pdb
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\3rd_Project\obj\Debug\net6.0\3rd_Project.csproj.AssemblyReference.cache
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\3rd_Project\obj\Debug\net6.0\3rd_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\3rd_Project\obj\Debug\net6.0\3rd_Project.AssemblyInfoInputs.cache
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\3rd_Project\obj\Debug\net6.0\3rd_Project.AssemblyInfo.cs
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\3rd_Project\obj\Debug\net6.0\3rd_Project.csproj.CoreCompileInputs.cache
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\3rd_Project\obj\Debug\net6.0\3rd_Project.dll
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\3rd_Project\obj\Debug\net6.0\refint\3rd_Project.dll
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\3rd_Project\obj\Debug\net6.0\3rd_Project.pdb
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\3rd_Project\obj\Debug\net6.0\3rd_Project.genruntimeconfig.cache
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\3rd_Project\obj\Debug\net6.0\ref\3rd_Project.dll

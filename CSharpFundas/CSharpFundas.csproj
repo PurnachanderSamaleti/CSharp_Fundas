@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <StartupObject>CSharpFundas.ChildClass</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Method2.cs" />
+    <Compile Remove="Method3.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Method2.cs" />
+    <None Include="Method3.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="103.0.5060.13400" />
+  </ItemGroup>
+
+</Project>

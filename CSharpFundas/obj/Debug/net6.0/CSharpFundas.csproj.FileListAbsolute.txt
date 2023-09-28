@@ -1,0 +1,15 @@
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\CSharpFundas\bin\Debug\net6.0\CSharpFundas.exe
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\CSharpFundas\bin\Debug\net6.0\CSharpFundas.deps.json
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\CSharpFundas\bin\Debug\net6.0\CSharpFundas.runtimeconfig.json
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\CSharpFundas\bin\Debug\net6.0\CSharpFundas.dll
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\CSharpFundas\bin\Debug\net6.0\CSharpFundas.pdb
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\CSharpFundas\obj\Debug\net6.0\CSharpFundas.csproj.AssemblyReference.cache
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\CSharpFundas\obj\Debug\net6.0\CSharpFundas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\CSharpFundas\obj\Debug\net6.0\CSharpFundas.AssemblyInfoInputs.cache
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\CSharpFundas\obj\Debug\net6.0\CSharpFundas.AssemblyInfo.cs
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\CSharpFundas\obj\Debug\net6.0\CSharpFundas.csproj.CoreCompileInputs.cache
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\CSharpFundas\obj\Debug\net6.0\CSharpFundas.dll
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\CSharpFundas\obj\Debug\net6.0\refint\CSharpFundas.dll
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\CSharpFundas\obj\Debug\net6.0\CSharpFundas.pdb
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\CSharpFundas\obj\Debug\net6.0\CSharpFundas.genruntimeconfig.cache
+C:\Users\SamaletiPurnachander\source\repos\C_Sharp_Fundas\CSharpFundas\obj\Debug\net6.0\ref\CSharpFundas.dll
